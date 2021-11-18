@@ -20,7 +20,7 @@
         Atuo como Desenvolvedor Full-Stack.
 
   
-## Veja abaixo um pouco mais sobre meu minha formação acadêmica:
+## Veja abaixo um pouco mais sobre minha formação acadêmica:
 
 * Me formei em 2017, como tecnico de informatica na ETEC.    
 * Ingressei na FATEC como estudante de Redes de Computadores, porém tranquei minha matricula para empreender.
